@@ -7,3 +7,6 @@ git switch name-branch              # Переключение в другую �
 
 git branch                          # Просмотр существующих веток
 git branch -D name-branch           # Удалить ветку         
+
+
+git status
