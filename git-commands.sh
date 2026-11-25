@@ -6,4 +6,4 @@ git switch --create branch-name     # Создание новой ветки
 git switch name-branch              # Переключение в другую ветку
 
 git branch                          # Просмотр существующих веток
-git branch -D name-branch           # Удалить ветку
+git branch -D name-branch           # Удалить ветку         
