@@ -2,3 +2,4 @@ git add .                           # Индексация изменений в
 git commit -m "Commit mesege"       # Описание изменение (коммит)
 git push                            # Отправка изменений в origin (удалённый репозиторий)
 
+git switch --create branch-name     # Создание новой ветки
